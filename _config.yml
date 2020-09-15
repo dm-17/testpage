@@ -1,1 +1,14 @@
 theme: jekyll-theme-slate
+
+lsi: false
+safe: true
+source: /
+incremental: false
+highlighter: rouge
+sass:
+  sass_dir: assets/_sass
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
