@@ -1,0 +1,56 @@
+conferenceteam:
+  - name:  Martin Knobloch
+    role:  Chair, OWASP Global Board of Directors and Chapter Leader, Netherlands
+    image: martink.png
+  - name:  Owen Pendlebury
+    role:  Vice-chair, OWASP Global Board of Directors
+    image: no-person.png
+  - name:  Sebastien Deleersnyder
+    role: Chapter Leader, Belgium
+    image: seba.jpg
+  - name : Lieven Desmet
+    role: Chapter Leader, Belgium
+    image: no-person.png
+  - name : Edwin Gozeling
+    role: Chapter Leader, Netherlands and CFP Team Lead
+    image: EdwinGozeling.jpg
+  - name : David Mathy
+    role: Chapter Board Member, Belgium and Website Team
+    image: no-person.png
+  - name : Joren Poll
+    role: Chapter Leader, Netherlands
+    image: no-person.png
+  - name : Riccardo ten Cate
+    role: CFT Team Lead
+    image: riccardo.jpg
+  - name : Tom Wirschell
+    role: Chapter Leader, Netherlands
+    image: no-person.png
+  - name : Erlend Oftedal
+    role: Chapter Leader, Norway and Website Team
+    image: erlend.jpg
+  - name : Mario Heiderich
+    role: Website Team
+    image: mario_heiderich.jpg
+staff: 
+  - name: Mike McCamon 
+    role: Executive Director
+    image: mike_m.jpg
+  - name: Emily Berman
+    role: Director, Events
+    image: emily.jpg
+  - name: Harold Blankenship
+    role: Director, Technology and Projects
+    image: harold.jpg
+  - name: Kelly Santalucia
+    role: Director, Corporate Support
+    image: kelly_150_pref_c.png
+  - name: Dawn Aitken
+    role: Community and Operations Manager
+    image: dawn_150_wiki.png
+  - name: Lisa Jones
+    role: Sales and Marketing Operations Manager
+    image: Lisa-Jones.jpg
+  - name: Sibah Poede
+    role: Events Coordinator
+    image: sibah-photo.jpg

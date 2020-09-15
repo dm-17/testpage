@@ -1,0 +1,36 @@
+- title: Registration
+  items:
+  - title: Register
+    url  : https://www.regonline.com/registration/Checkin.aspx?EventId=2568596
+  - title: Pricing
+    url  : program/pricing
+- title: Program
+  items:
+  - title: Keynotes
+    url  : program/keynotes
+  - title: Schedule
+    url  : program/schedule
+  - title: Training
+    url  : program/trainings
+  - title: Allstars 2019	
+    url  : program/allstars
+- title: Sponsor
+  items:
+  - title: Opportunities
+    url  : sponsors/
+  - title: Exhibitor Info
+    url  : sponsors/exhibitor_kit
+- title: Volunteer Info
+  url  : volunteer/volunteer_info
+- title: Venue
+  items:
+  - title: Hotel and Transport Info
+    url  : venue/
+- title: About
+  items:
+  - title: Global AppSec
+    url  : about/
+  - title: Team
+    url  : about/team
+  - title: Code of Conduct
+    url  : about/code-of-conduct
