@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homepage
-tagline: Supporting tagline
+tagline: OWASP BeNeLux Days 2020
 ---
 {% include JB/setup %}
 
